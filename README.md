@@ -14,9 +14,8 @@ New VM is created in Azure from the main.tf code using terraform
 
 ├── main.tf                   // The primary entrypoint for terraform resources.
 ├── vars.tf                   // It contain the declarations for variables.
-├── output.json                 // It contain metadata of azure instance
+├── output.json                // It contains the metadata of azure instance
 ├── terraform.tfvars          // The file to pass the terraform variables values.
-
 
 
 ## Deployment
